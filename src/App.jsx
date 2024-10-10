@@ -72,6 +72,7 @@ function App() {
             display: 'inline-block',
             border: '1px solid #000',
             padding: '10px',
+            fontFamily: 'Arial, Verdana, Tahoma, Helvetica, sans-serif',
         }}>
             <p>Ахой!</p>
             <p>
