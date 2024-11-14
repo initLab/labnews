@@ -96,7 +96,7 @@ function App() {
             <p>
                 <strong>Искаш да ни подкрепиш?</strong><br />
                 - <a href="https://initlab.org/%D0%B7%D0%B0-%D0%BD%D0%B0%D1%81/%D0%BF%D1%80%D0%B8%D1%81%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8-%D1%81%D0%B5/">стани член</a><br />
-                - организирай събитие или курс - пиши ни на <a href="mailto:yo@initlab.org">yo@initlab.org</a> с идеята си!<br />
+                - организирай събитие или курс - пиши ни на <a href="mailto:us@initlab.org">us@initlab.org</a> с идеята си!<br />
                 - <a href="https://initlab.org/%d0%b7%d0%b0-%d0%bd%d0%b0%d1%81/%d0%b4%d0%b0%d1%80%d0%b5%d0%bd%d0%b8%d1%8f/">подари ни нещо</a><br />
                 - разкажи на някого за нас<br />
                 - <a href="https://github.com/initlab/initlab/issues/">помогни ни с текущите проекти, задачи и проблеми на Лаба</a>
