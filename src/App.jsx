@@ -103,7 +103,6 @@ function App() {
             </p>
             <p>
                 <strong>Спонсори, дарители и Patreon подкрепчици от последния месец:</strong><br />
-                - <a href="https://initlab.org/9346/storpool-%d1%81%d0%bf%d0%be%d0%bd%d1%81%d0%be%d1%80%d0%b8%d1%80%d0%b0-%d0%bb%d0%b0%d0%b1%d0%b0/">StorPool</a><br />
                 - М.А.<br />
                 - Я.С.<br />
                 - N.A.<br />
