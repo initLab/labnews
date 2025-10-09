@@ -1,7 +1,7 @@
 import ical from 'ical/ical.js';
 import useFetch from './swr.js';
 import { Fragment, useMemo, useState } from 'react';
-import { compareAsc, format, isThisMonth } from 'date-fns';
+import { compareAsc, format, isThisMonth, isFuture } from 'date-fns';
 import { bg } from 'date-fns/locale';
 
 function App() {
@@ -23,7 +23,9 @@ function App() {
       }
 
       const parsed = ical.parseICS(data);
-      const events = Object.values(parsed).filter(item => item.type === 'VEVENT').sort((a, b) =>
+      const events = Object.values(parsed).filter(item =>
+            item.type === 'VEVENT' && isFuture(item.start)
+      ).sort((a, b) =>
           compareAsc(a.start, b.start)
       );
 
