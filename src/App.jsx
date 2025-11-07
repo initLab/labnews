@@ -105,11 +105,10 @@ function App() {
             </p>
             <p>
                 <strong>Спонсори, дарители и Patreon подкрепчици от последния месец:</strong><br />
-                - М.А.<br />
                 - Я.С.<br />
-                - N.A.<br />
                 - TheCherveno<br />
-                - Velina
+                - N.A.<br />
+                - Y.B.
             </p>
             <p>Благодарим ви!</p>
         </div>
